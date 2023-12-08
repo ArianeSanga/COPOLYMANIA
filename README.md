@@ -5,7 +5,7 @@ Nesta documentação você encontrará a descrição do projeto, fotos e explica
 ## SOBRE O JOGO
 Copolymania é um jogo simples mas de estretégia que envolvem dois jogadores com o objetivo central de levar o oponente à falência. 
 #### Mas como? 
-A dinâminca do jogo é fundamentada em um tabuleiro virtual que simula o avaço de cada jogador por meio do lançamento de dois lados. Cada dado determina o número de casas a serem avançadas, e ao alcançar uma casa, o jogador decide se vale a pena comprar a propriedade ou não, a partir da compra de uma propriedade cada jogador que passar por essa posição é obrigado a pagar um valor (aluguel) ao proprietário. O jogo também conta com posições especiais no tabuleiro, caso o jogador caia em uma posição especial ele precisa retirar uma carta, sendo ela aleatóriamente de sorte ou azar. Sendo assim, busque a melhor estratégia, seu sucesso depende disso!
+A dinâminca do jogo é fundamentada em um tabuleiro virtual que simula o avanço de cada jogador por meio do lançamento de dois lados. Cada dado determina o número de casas a serem avançadas, e ao alcançar uma casa, o jogador decide se vale a pena comprar a propriedade ou não, a partir da compra de uma propriedade cada jogador que passar por essa posição é obrigado a pagar um valor (aluguel) ao proprietário. O jogo também conta com posições especiais no tabuleiro, caso o jogador caia em uma posição especial ele precisa retirar uma carta, sendo ela aleatóriamente de sorte ou azar. Sendo assim, busque a melhor estratégia, seu sucesso depende disso!
 
 ## IMPLEMENTAÇÃO
 Utilizamos duas estruturas de dados como base do projeto, sendo elas: Lista e Pilha
