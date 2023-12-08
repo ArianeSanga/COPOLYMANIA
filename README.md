@@ -18,7 +18,7 @@ Para fazer uma pilha de cartas, que é chamada no jogo em posições específica
 #### Fila
 Anteriormente o jogo estava utilizando a estrutura de dados Fila para lidar com os jogadores mas vimos que não tinha motivo e então retiramos
 #### Tabuleiro
-Além disso, o tabuleiro primeiramente foi implementado com matriz mas também vimos que era inútil por dois motivos, primeiro que um tabuleiro (se for aproxima da realidade) é composto pelas bordas, o interior é "vazio". E o segundo motivo é que o tabuleiro não precisa ser exatamente como o da vida real, então a representação com Lista (atual implementação) faz mais sentido, ou seja, a representação de um tabuleiro quadrado é lógica.
+Além disso, o tabuleiro primeiramente foi implementado com matriz mas também vimos que era inútil por dois motivos, primeiro que um tabuleiro (se for aproximar da realidade) é composto pelas bordas, o interior é "vazio", logo não faria sentido desperdiçar memória. E o segundo motivo é que o tabuleiro não precisa ser exatamente como o da vida real, então a representação com Lista (atual implementação) faz mais sentido já que a representação de um tabuleiro quadrado é lógica.
 
 ## COMO JOGAR
 Nosso jogo, até o momento, não faz uso de interfaces, logo, para ter acesso à implementação basta clonar/baixar os arquivos e rodar na IDE da sua preferência. Qualque dúvida faça contato conosco!
