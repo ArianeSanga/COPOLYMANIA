@@ -42,7 +42,7 @@ Utilizamos a plataforma Trello para dividir os trabalhos principais a serem feit
 
 ## VIDEO EXPLICATIVO SOBRE O JOGO
 Segue o vídeo explicativo com mais detalhes sobre o jogo Copolymania com a explicação da lógica do jogo, importância da estruturas de dados utilizadas e muito mais!
-https://youtu.be/aASnSqYyzgQ
+* https://youtu.be/aASnSqYyzgQ
 
 ## AUTORAS DO PROJETO
 *  Ariane Sanga - arianesanga4@icloud.com
