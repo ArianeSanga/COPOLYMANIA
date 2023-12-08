@@ -20,6 +20,13 @@ Anteriormente o jogo estava utilizando a estrutura de dados Fila para lidar com 
 #### Tabuleiro
 Além disso, o tabuleiro primeiramente foi implementado com matriz mas também vimos que era inútil por dois motivos, primeiro que um tabuleiro (se for aproximar da realidade) é composto pelas bordas, o interior é "vazio", logo não faria sentido desperdiçar memória. E o segundo motivo é que o tabuleiro não precisa ser exatamente como o da vida real, então a representação com Lista (atual implementação) faz mais sentido já que a representação de um tabuleiro quadrado é lógica.
 
+## SCREENSHOTS
+![image](https://github.com/ArianeSanga/COPOLYMANIA/assets/141193456/607c614f-4786-4bb2-8a7c-127aac2bddc0)
+
+![image](https://github.com/ArianeSanga/COPOLYMANIA/assets/141193456/46178801-fca9-4b91-91b3-e46cf7150288)
+
+![image](https://github.com/ArianeSanga/COPOLYMANIA/assets/141193456/1718ec7c-409f-45c5-a246-2435718dd446)
+
 ## COMO JOGAR
 Nosso jogo, até o momento, não faz uso de interfaces, logo, para ter acesso à implementação basta clonar/baixar os arquivos e rodar na IDE da sua preferência. Qualque dúvida faça contato conosco!
 
@@ -29,12 +36,9 @@ Nosso jogo, até o momento, não faz uso de interfaces, logo, para ter acesso à
 * E depois clique na opção "Download ZIP"
 * Após isso, o arquivo da pasta será baixado, agora é só descompactar e rodar :)
 
-## SCREENSHOTS
-![image](https://github.com/ArianeSanga/COPOLYMANIA/assets/141193456/607c614f-4786-4bb2-8a7c-127aac2bddc0)
-
-![image](https://github.com/ArianeSanga/COPOLYMANIA/assets/141193456/46178801-fca9-4b91-91b3-e46cf7150288)
-
-![image](https://github.com/ArianeSanga/COPOLYMANIA/assets/141193456/1718ec7c-409f-45c5-a246-2435718dd446)
+## METODOLOGIA DE DESENVOLVIMENTO
+Utilizamos a plataforma Trello para dividir os trabalhos principais a serem feitos, tanto geral quanto individualmente, por meio de cards.
+![image](https://github.com/ArianeSanga/COPOLYMANIA/assets/141193456/5093fdfd-5cd9-4283-b5f0-43efd9bd44ac)
 
 ## AUTORAS DO PROJETO
 *  Ariane Sanga - arianesanga4@icloud.com
