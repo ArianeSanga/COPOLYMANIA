@@ -40,6 +40,10 @@ Nosso jogo, até o momento, não faz uso de interfaces, logo, para ter acesso à
 Utilizamos a plataforma Trello para dividir os trabalhos principais a serem feitos, tanto geral quanto individualmente, por meio de cards.
 ![image](https://github.com/ArianeSanga/COPOLYMANIA/assets/141193456/5093fdfd-5cd9-4283-b5f0-43efd9bd44ac)
 
+## VIDEO EXPLICATIVO SOBRE O JOGO
+Segue o vídeo explicativo com mais detalhes sobre o jogo Copolymania com a explicação da lógica do jogo, importância da estruturas de dados utilizadas e muito mais!
+https://youtu.be/aASnSqYyzgQ
+
 ## AUTORAS DO PROJETO
 *  Ariane Sanga - arianesanga4@icloud.com
 *  Ellen Pinheiro - ellenpingon@gmail.com
