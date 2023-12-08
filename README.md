@@ -11,15 +11,22 @@ A dinãminca do jogo é fundamentada em um tabuleiro virtual que simula o avaço
 Utilizamos duas estruturas de dados como base do projeto, sendo elas: Lista e Pilha
 #### Uso da Lista
 Utilizamos lista cirular duplamente encadeada para fazer o tabuleiro, onde cada nó da lista(tabuleiro) contém informaões sobre a propriedade do jogo, lógica semelhante a um tabuleiro real.
-#### Uso da pilha
+#### Uso da Pilha
 Para fazer uma pilha de cartas, que é chamada no jogo em posições específicas. Logo, assim que chama a carta, retira uma carta do topo da pilha.
 
-## COMO JOGAR
-Nosso jogo, até o momento, não faz uso de interfaces, logo, para ter acesso à implementação basta clonar/baixar os arquivos e rodar na IDE da sua preferência. Qualque dúvida faça contato conosco :)
+## ANTIGA IMPLEMENTAÇÃO
+#### Fila
+Anteriormente o jogo estava utilizando a estrutura de dados Fila para lidar com os jogadores mas vimos que não tinha motivo e então retiramos
+#### Tabuleiro
+Além disso, o tabuleiro primeiramente foi implementado com matriz mas também vimos que era inútil por dois motivos, primeiro que um tabuleiro (se for aproxima da realidade) é composto pelas bordas, o interior é "vazio". E o segundo motivo é que o tabuleiro não precisa ser exatamente como o da vida real, então a representação com Lista (atual implementação) faz mais sentido, ou seja, a representação de um tabuleiro quadrado é lógica.
 
-![image](https://github.com/ArianeSanga/COPOLYMANIA/assets/141193456/063cfdc3-dc86-4ae2-b17d-96c157bb22b0)
+## COMO JOGAR
+Nosso jogo, até o momento, não faz uso de interfaces, logo, para ter acesso à implementação basta clonar/baixar os arquivos e rodar na IDE da sua preferência. Qualque dúvida faça contato conosco!
+
+![image](https://github.com/ArianeSanga/COPOLYMANIA/assets/141193456/7d07b9d3-efbe-416e-81cb-466f912846c6)
+
 * Clique em "<> Code"
-* E depois clique na opção Download ZIP
+* E depois clique na opção "Download ZIP"
 * Após isso, o arquivo da pasta será baixado, agora é só descompactar e rodar :)
 
 ## AUTORAS DO PROJETO
