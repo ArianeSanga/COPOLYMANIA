@@ -31,7 +31,9 @@ Nosso jogo, até o momento, não faz uso de interfaces, logo, para ter acesso à
 
 ## SCREENSHOTS
 ![image](https://github.com/ArianeSanga/COPOLYMANIA/assets/141193456/607c614f-4786-4bb2-8a7c-127aac2bddc0)
+
 ![image](https://github.com/ArianeSanga/COPOLYMANIA/assets/141193456/46178801-fca9-4b91-91b3-e46cf7150288)
+
 ![image](https://github.com/ArianeSanga/COPOLYMANIA/assets/141193456/1718ec7c-409f-45c5-a246-2435718dd446)
 
 ## AUTORAS DO PROJETO
