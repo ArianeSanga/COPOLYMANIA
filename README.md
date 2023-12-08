@@ -16,8 +16,10 @@ Para fazer uma pilha de cartas, que é chamada no jogo em posições específica
 
 ## COMO JOGAR
 Nosso jogo, até o momento, não faz uso de interfaces, logo, para ter acesso à implementação basta clonar/baixar os arquivos e rodar na IDE da sua preferência. Qualque dúvida faça contato conosco :)
-
-![] (CapturaDeTela(56).png)
+![image](https://github.com/ArianeSanga/COPOLYMANIA/assets/141193456/063cfdc3-dc86-4ae2-b17d-96c157bb22b0)
+* Clique em "<> Code"
+* E depois clique na opção Download ZIP
+* Após isso, o arquivo da pasta será baixado, agora é só descompactar e rodar :)
 
 ## AUTORAS DO PROJETO
 *  Ariane Sanga - arianesanga4@icloud.com
