@@ -1,6 +1,6 @@
 # COPOLYMANIA
 Bem vindo ao repositório do jogo Copolymania, jogo desevolvido em linguagem C que contém uma lógica semelhante aos famosos jogos de tabuleiro "Monopoly" e "Banco Imobiliário". O projeto foi implementado pelas alunas do IFSP Campus Araraquara.
-Nesta documentação você encontrará a descrição do projeo, fotos e explicação do funcionamento do jogo, detalhes a respeito da metodologia e etc.
+Nesta documentação você encontrará a descrição do projeto, fotos e explicação do funcionamento do jogo, detalhes a respeito da metodologia e etc.
 
 ## SOBRE O JOGO
 Copolymania é um jogo simples mas de estretégia que envolvem dois jogadores com o objetivo central de levar o oponente à falência. 
