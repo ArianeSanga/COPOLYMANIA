@@ -14,6 +14,9 @@ Utilizamos lista cirular duplamente encadeada para fazer o tabuleiro, onde cada 
 #### Uso da pilha
 Para fazer uma pilha de cartas, que é chamada no jogo em posições específicas. Logo, assim que chama a carta, retira uma carta do topo da pilha.
 
+## COMO JOGAR
+Nosso jogo, até o momento, não faz uso de interfaces, logo, para ter acesso à implementação basta clonar/baixar os arquivos e rodar na IDE da sua preferência. Qualque dúvida faça contato conosco :)
+
 ## AUTORAS DO PROJETO
 *  Ariane Sanga - arianesanga4@icloud.com
 *  Ellen Pinheiro - ellenpingon@gmail.com
