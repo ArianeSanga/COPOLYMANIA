@@ -25,41 +25,41 @@ int lancaDados() {
 
 void imprime_Dado(int dado1){
    if(dado1 == 1){
-    printf(" ---------\n");
+    printf("+---------+\n");
     printf("|         |\n");
     printf("|    0    |\n");
     printf("|         |\n");
-    printf(" ---------\n");
+    printf("+---------+\n");
   }else if(dado1 == 2){
-    printf(" ---------\n");
-    printf("|        0|\n");
+    printf("+---------+\n");
+    printf("| 0       |\n");
     printf("|         |\n");
-    printf("|0        |\n");
-    printf(" ---------\n");
+    printf("|       0 |\n");
+    printf("+---------+\n");
   }else if(dado1 == 3){
-    printf(" ---------\n");
-    printf("|        0|\n");
+    printf("+---------+\n");
+    printf("| 0       |\n");
     printf("|    0    |\n");
-    printf("|0        |\n");
-    printf(" ---------\n");
+    printf("|       0 |\n");
+    printf("+---------+\n");
   }else if(dado1 == 4){
-    printf(" ---------\n");
-    printf("|0       0|\n");
+    printf("+---------+\n");
+    printf("| 0     0 |\n");
     printf("|         |\n");
-    printf("|0       0|\n");
-    printf(" ---------\n");
+    printf("| 0     0 |\n");
+    printf("+---------+\n");
   }else if(dado1 == 5){
-    printf(" ---------\n");
-    printf("|0       0|\n");
+    printf("+---------+\n");
+    printf("| 0     0 |\n");
     printf("|    0    |\n");
-    printf("|0       0|\n");
-    printf(" ---------\n");
-  }else if(dado1==6){
-    printf(" ---------\n");
-    printf("|0       0|\n");
-    printf("|0       0|\n");
-    printf("|0       0|\n");
-    printf(" ---------\n");
+    printf("| 0     0 |\n");
+    printf("+---------+\n");
+  }else if(dado1 == 6){
+    printf("+---------+\n");
+    printf("| 0     0 |\n");
+    printf("| 0     0 |\n");
+    printf("| 0     0 |\n");
+    printf("+---------+\n");
   }else{
     printf("ERRO");
   }
